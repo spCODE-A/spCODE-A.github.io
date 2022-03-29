@@ -1,0 +1,54 @@
+.bg div:nth-child(1) {
+  background-color: #15151e;
+  block-size: 120%;
+  margin-top: -8px;
+  margin-left: -4px;
+  margin-right: -4px;
+  height: 130px;
+  width: -120px;
+  writing-mode: vertical-lr;
+  writing-mode: horizontal-tb;
+}
+.f1-logo-nav {
+  margin-top: 40px;
+  margin-left: 40px;
+  width: 12.5%;
+}
+
+.bar-log-in div:nth-child(1) {
+  background-color: #38383f;
+  margin-left: -8px;
+  height: 50px;
+  width: 105%;
+}
+
+.sign-in {
+  margin-bottom: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  margin-left: 700px;
+}
+
+.register {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  margin-left: 50px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.f1-logo-footer {
+  margin-bottom: -34.1%;
+  margin-left: 0.7%;
+  width: 8.5%;
+}
+
+.sign-in {
+  color: white;
+}
+
+.register {
+  color: white;
+}
